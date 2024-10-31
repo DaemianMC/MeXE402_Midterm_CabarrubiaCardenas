@@ -14,7 +14,8 @@ Linear regression models the relationship between a dependent variable and one o
      
      Y = b<sub>0</sub> + b<sub>1</sub> X<sub>1</sub> + b<sub>2</sub> X<sub>2</sub> + ... + b<sub>n</sub> X<sub>n</sub> + ε
    * Here, each b coefficient represents the effect of each corresponding X variable on Y.
-
+     
+---
 
 
 ### Dataset Description
