@@ -19,7 +19,7 @@ Linear regression models the relationship between a dependent variable and one o
 
 
 ### Dataset Description
-In the dataset [weather.csv](MeXE402_Midterm_CabarrubiaCardenas/Linear_Regression/weather.csv), it contains information about weather data, including humidity, wind speed, and precipitation. It can be used to predict temperature patterns using linear regression.
+In the dataset [weather.csv](https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/weather.csv), it contains information about weather data, including humidity, wind speed, and precipitation. It can be used to predict temperature patterns using linear regression.
 * The dependent variable in this dataset is ***Temperature (C)***.
 * The independent variables in this dataset are ***Apparent Temperature (C), Humidity, Wind Speed (km/h), Wind Bearings (degrees), Visibility (km)*** and ***Pressure (millibars)*** 
 
