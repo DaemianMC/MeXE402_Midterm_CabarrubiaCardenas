@@ -37,29 +37,29 @@ In doing this project, these are the things we want to achieve with our analysis
 
 ### Methodology
 For the documentation, here are the step-by-step process we come up to create the program that would be useful in predicting the temperature using linear regression:
-1. Importing the dataset
+1. **Importing the dataset**
    * Reading the given dataset which is in CSV file and loading it into Pandas DataFrame as a variable called 'dataset'
-2. Modifying the dataset
+2. **Modifying the dataset**
    * We remove the unnecessary variables that are not needed in predicting the temperature
    * We also placed the dependent variable on the last column so it would be easier for us to get the input and output.
-3. Getting the inputs and output
+3. **Getting the inputs and output**
    * Selecting the inputs or the independent variable then storing them in 'X' variable
    * Selecting the output or the dependent variable then storing them in 'y' variable
    * After that, the inputs and output are converted into a NumPy array
-4. Creating the Training Set and the Test Set
+4. **Creating the Training Set and the Test Set**
    * Splitting our dataset to create a Training Set and Test Set
-5. Building and Training the model
+5. **Building and Training the model**
    * Setting up a linear regression model using scikit-learn to build the model
    * Training the linear regression model using the train set data that we created
-6. Inference
+6. **Inference**
    * Making predictions based on the test set data *(X_test)*
    * Making the prediction of a single data point using the first row of the dataset
-7. Evaluating the Model
+7. **Evaluating the Model**
    * Evaluating the performarce of our regression model using the metric R-squared
    * Determining the Adjusted R-Squared to get a more reliable score especially that our dataset has multiple independent variables or features
    * Calculating the Mean Squared Error (MSE)
    * Calculating the Root Mean Squared Error (RMSE) for us to interpret the error in the same units as the R-squared
-8. Visualization
+8. **Visualization**
    * Correlation of the variables to each other
    * Visualizing the relation of each independent variables to the dependent variable uisng pairplot function
    * Visualizing the relationship between the actual data and the predicted data using scatter plot
