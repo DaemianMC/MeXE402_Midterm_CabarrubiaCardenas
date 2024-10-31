@@ -61,17 +61,35 @@ For the documentation, here are the step-by-step process we come up to create th
    * Calculating the Root Mean Squared Error (RMSE) for us to interpret the error in the same units as the R-squared
 8. **Visualization**
    * Correlation of the variables to each other
-     
-     <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Correlation_Heatmap.png" alt="Correlation Heatmap" width="800" />
+
+   
+     <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Correlation_Heatmap.png" alt="Correlation Heatmap" width="700" />
+
+
+
 
    * Visualizing the relation of each independent variables to the dependent variable uisng pairplot function
-     <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Pairplot.png" alt="Pairplot" width="800" />
+  
+     
+     <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Pairplot.png" alt="Pairplot" width="700" />
+
+
+
 
    * Visualizing the relationship between the actual data and the predicted data using scatter plot
-     <img src="path/to/image.png" alt="Description" width="300" />
+  
+     
+     <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Scatter.png" alt="Scatter" width="700" />
+
+
+
 
    * Visualizing the relationship of each independent variables with the dependent variables using scatter plot
-     <img src="path/to/image.png" alt="Description" width="300" />
+  
+     
+     <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Scatter_2.png" alt="Scatter_2" width="700" />
+
+
 
 
 ---
