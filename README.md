@@ -19,11 +19,19 @@ Linear regression models the relationship between a dependent variable and one o
 
 
 ### Dataset Description
-In the dataset [weather.csv](weather.csv)
+In the dataset [weather.csv](weather.csv), it contains information about weather data, including humidity, wind speed, and precipitation. It can be used to predict temperature patterns using linear regression.
+* The dependent variable in this dataset is ***Temperature (C)***.
+* The independent variables in this dataset are ***Apparent Temperature (C), Humidity, Wind Speed (km/h), Wind Bearings (degrees), Visibility (km)*** and ***Pressure (millibars)*** 
+
+---
 
 
 ### Project Objectives
-&nbsp; &nbsp; [Insert text here]
+In doing this project, these are the things we want to achieve with our analysis:
+* We aim to understand how the dataset can be used to predict temperature
+* Through programming, we aim to develop a program that accurately predicts temperature using linear regression
+* By means of evaluating the metrics through computing ***R-squared, Adjusted R-squared, Mean Squared Error and Root Mean Squared Error***.
+* To better visualize
 
 --- 
 
