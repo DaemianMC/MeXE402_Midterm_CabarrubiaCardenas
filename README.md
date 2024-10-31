@@ -31,8 +31,7 @@ In doing this project, these are the things we want to achieve with our analysis
 * We aim to understand how the dataset can be used to predict temperature
 * Through programming, we aim to develop a program that accurately predicts temperature using linear regression
 * By means of evaluating the metrics through computing ***R-squared, Adjusted R-squared, Mean Squared Error and Root Mean Squared Error***.
-* To better visualize
-
+* To better understand how to predict temperature using the dataset, we plan to provide visualizations such as a ***correlation heatmap, pairplot, and scatter plot***.
 --- 
 
 ## Logistic Regression
