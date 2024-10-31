@@ -19,7 +19,7 @@ Linear regression models the relationship between a dependent variable and one o
 
 
 ### Dataset Description
-&nbsp; &nbsp; [Insert text here]
+In the dataset [weather.csv](MeXE402_Midterm_CabarrubiaCardenas/Linear_Regression)
 
 ### Project Objectives
 &nbsp; &nbsp; [Insert text here]
