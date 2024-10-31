@@ -65,7 +65,9 @@ For the documentation, here are the step-by-step process we come up to create th
    * Visualizing the relationship between the actual data and the predicted data using scatter plot
    * Visualizing the relationship of each independent variables with the dependent variables using scatter plot
 
+---
 
+### Results
 
 
 
