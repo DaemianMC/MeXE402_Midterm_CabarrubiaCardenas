@@ -165,6 +165,22 @@ For the documentation, here are the step-by-step process we come up to create th
     * Computes the confusion matrix by comparing the true labels y_test with the predicted labels y_pred
     * Checked the accuracy by inputting the numbers obtained from the confusion matrix into the formula for computing accuracy
 9. **Visualization**
-    * # Visualizes a classification model's performance by showing counts of true positives, true negatives, false positives, and false negatives, facilitating evaluation of accuracy and other metrics.
-    
-     
+    * Visualizes a classification model's performance by showing counts of true positives, true negatives, false positives, and false negatives, facilitating evaluation of accuracy and other metrics.
+      
+       <p align="center">
+       <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Logistic_Regression/Visualization/Confusion%20Matrix.png" alt="Confusion Matrix" width="700" />
+
+
+    * Visualizes the trade-off between true positive rate and false positive rate across various thresholds, helping assess and optimize binary classification performance
+      <p align="center">
+       <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Logistic_Regression/Visualization/ROC.png" alt="Receiver Operating Characteristic" width="700" />
+
+
+    * Visualizes how input changes affect predicted probabilities in binary outcomes, illustrating the decision boundary and the model's sensitivity
+      <p align="center">
+       <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Logistic_Regression/Visualization/Sigmoid%20Curve.png" alt="Sigmoid Curve" width="700" />
+
+
+    * Visualizes the trade-off between precision and recall across thresholds, aiding in the assessment of model performance, especially in imbalanced datasets
+      <p align="center">
+       <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Logistic_Regression/Visualization/Precision.png" alt="Precision-Recall Curve" width="700" />     
