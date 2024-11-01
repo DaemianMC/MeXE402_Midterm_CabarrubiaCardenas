@@ -103,11 +103,12 @@ For the documentation, here are the step-by-step process we come up to create th
 
 **R-squared**
   * The R-squared of this dataset is 0.989586560632771 or 98.96%
-  * This value suggests that it is a very good fit, meaning the model accurately captures the relationship between the independent variables and the dependent variable
+  * This value suggests that the model is a very good fit, meaning the model accurately captures the relationship between the independent variables and the dependent variable
 
 **Adjusted R-squared**
   * The adjusted R-squared of this dataset is 0.9895833206080767 or 98.96%
-  * 
+  * This value suggests the model is still a very good fit even when accounting for the number of independent variables
+  * This value is very close to the R-squared implying that the model is not overfitting
 
 
 
