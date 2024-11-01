@@ -130,7 +130,41 @@ In the dataset [adult.csv](https://github.com/DaemianMC/MeXE402_Midterm_Cabarrub
 
 ### Project Objectives
 In doing this project, these are the things we want to achieve with our analysis:
-* Analyze the impact of independent variables on the likelihood of the outcome.
-* Develop a model to estimate the probability of a binary outcome
-* Provide actionable insights for informed decision-making based on model predictions.
-* Assess model accuracy and effectiveness using metrics such as accuracy, precision, recall, and ROC-AUC.
+* To analyze the impact of independent variables on the likelihood of the outcome.
+* To develop a model to estimate the probability of a binary outcome
+* To assess model accuracy and effectiveness using metrics such as *accuracy, precision, recall,* and *ROC-AUC*.
+
+---
+
+
+### Methodology
+For the documentation, here are the step-by-step process we come up to create the program that would be useful in categorizing their ***sex*** using logistic regression:
+1. **Importing the dataset**
+   * Reading the given dataset which is in CSV file and loading it into Pandas DataFrame as a variable called 'dataset'
+2. **Modifying the dataset**
+   * We remove the unnecessary variables that are not needed in categorizing their sex
+   * We also placed the dependent variable on the last column so it would be easier for us to get the input and output.
+3. **Getting the inputs and output**
+   * Selecting the inputs or the independent variable then storing them in 'X' variable
+   * Selecting the output or the dependent variable then storing them in 'y' variable
+   * After that, the inputs and output are converted into a NumPy array
+4. **Creating the Training Set and the Test Set**
+   * Splitting our dataset to create a Training Set and Test Set
+5. **Balancing and Bagging & Stacking**
+   * We used SMOTE to generate synthetic samples for the minority class in X_train and y_train
+   * Creates a pipeline that applies SMOTE for oversampling the minority class and then trains a RandomForestClassifier
+6. **Feature Scaling**
+   * We normalize the range of independent variables in a dataset
+7. **Building and Training the model**
+   * We used logistic regression for classification tasks
+   * We perform hyperparameter tuning using GridSearchCV to optimize the accuracy using specified parameters and retrieving the best model.
+   * Training the logistic regression regression model using the train set data that we created
+8. **Inference**
+   * Making the prediction of the datapoints in the test set
+9. **Evaluating the model**
+    * Computes the confusion matrix by comparing the true labels y_test with the predicted labels y_pred
+    * Checked the accuracy by inputting the numbers obtained from the confusion matrix into the formula for computing accuracy
+9. **Visualization**
+    * # Visualizes a classification model's performance by showing counts of true positives, true negatives, false positives, and false negatives, facilitating evaluation of accuracy and other metrics.
+    
+     
