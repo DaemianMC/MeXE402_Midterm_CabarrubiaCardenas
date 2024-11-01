@@ -1,5 +1,7 @@
 # MeXE402_Midterm_CabarrubiaCardenas
 ##### Midterm Project - 8
+##### Linear Regression: Weather Dataset
+##### Logistic Regression: Adult Census Income Dataset
 ---
 ## Linear Regression
 ### Introduction
@@ -242,3 +244,6 @@ In summary, comparing linear and logistic regression means looking at how each m
 
 ---
 
+## Contributors
+  * Cabarrubia, Yuel Jeiro Daemian
+  * Cardenas, Sofia Bianca
