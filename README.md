@@ -51,6 +51,7 @@ For the documentation, here are the step-by-step process we come up to create th
 5. **Building and Training the model**
    * Setting up a linear regression model using scikit-learn to build the model
    * Training the linear regression model using the train set data that we created
+   * Reducing overfitting using a regularization method called Lasso Regressor
 6. **Inference**
    * Making predictions based on the test set data *(X_test)*
    * Making the prediction of a single data point using the first row of the dataset
@@ -118,8 +119,6 @@ For the documentation, here are the step-by-step process we come up to create th
 **Root Mean Squared Error**
   * The root mean squared error of this dataset is 0.9715824088946632
   * This means that the prediction is only under 1 degree away from the actual temperatures
-
-
 
 
 
