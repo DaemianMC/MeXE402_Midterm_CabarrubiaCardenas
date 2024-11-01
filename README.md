@@ -62,10 +62,10 @@ For the documentation, here are the step-by-step process we come up to create th
 8. **Visualization**
    * Correlation of the variables to each other
 
-     <div style="text-align: center;">
+   <p align="center">
        <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Correlation_Heatmap.png" alt="Correlation Heatmap" width="700" />
-       <p><i>Figure 1.1 Correlation Heatmap</i></p>
-     </div>
+       <br><i>Figure 1.1 Correlation Heatmap</i>
+   </p>
 
 
 
