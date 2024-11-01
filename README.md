@@ -95,7 +95,10 @@ For the documentation, here are the step-by-step process we come up to create th
 ---
 
 ### Results
+<p>After doing this midterm project, here are some of our findings:</p>
 
+**R-Squared**
+  * jhksdfsd
 
 
 
