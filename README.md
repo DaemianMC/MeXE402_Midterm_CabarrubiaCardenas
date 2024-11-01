@@ -68,7 +68,7 @@ For the documentation, here are the step-by-step process we come up to create th
    </p>
 
 
-   * Visualizing the relation of each independent variables to the dependent variable uisng pairplot function
+   * Visualizing the relation of each independent variable to the dependent variable uisng pairplot function
   
      <p align="center">
        <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Pairplot.png" alt="Pairplot" width="700" />
@@ -84,12 +84,12 @@ For the documentation, here are the step-by-step process we come up to create th
      </p>
 
 
-   * Visualizing the relationship of each independent variables with the dependent variables using scatter plot
+   * Visualizing the relationship of each independent variable with the dependent variables using scatter plot
   
-     
-     <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Scatter_2.png" alt="Scatter_2" width="700" />
-
-
+     <p align="center">
+       <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Scatter_2.png" alt="Scatter_2" width="700" />
+       <br><i>Figure 1.4 Relationship of Each Independent Variable to the Dependent Variable</i>
+     </p>
 
 
 ---
