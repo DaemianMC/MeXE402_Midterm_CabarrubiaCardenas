@@ -103,8 +103,8 @@ For the documentation, here are the step-by-step process we come up to create th
 
 
 
-
-
+<br>
+<br>
 
 ## Logistic Regression
 ### Introduction
