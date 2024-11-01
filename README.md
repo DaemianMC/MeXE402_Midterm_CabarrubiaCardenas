@@ -64,17 +64,17 @@ For the documentation, here are the step-by-step process we come up to create th
 
    <p align="center">
        <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Correlation_Heatmap.png" alt="Correlation Heatmap" width="700" />
-       <br><i>Figure 1.1 Correlation Heatmap</i>
+       <br><i>Figure 1.1 Correlation Heatmap of Dataset Features</i>
    </p>
-
 
 
 
    * Visualizing the relation of each independent variables to the dependent variable uisng pairplot function
   
-     
-     <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Pairplot.png" alt="Pairplot" width="700" />
-
+     <p align="center">
+       <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Pairplot.png" alt="Pairplot" width="700" />
+       <br><i>Figure 1.2 Pairwise Relationship of Dataset Features with Correlation to the Dependent Variable</i>
+     </p>
 
 
 
