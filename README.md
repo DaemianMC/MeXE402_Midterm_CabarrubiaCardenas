@@ -192,3 +192,16 @@ For the documentation, here are the step-by-step process we come up to create th
        <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Logistic_Regression/Visualization/Precision.png" alt="Precision-Recall Curve" width="700" />
         <br><i>Figure 2.4 Precision-Recall Curve</i>
      </p>
+
+---
+
+
+### Results
+After doing this midterm project, here are some of our findings:
+* Due to having a lot of variables in our dataset, we find it hard to increase the accuracy of the logistic regression
+* The relationship between the variables affect the result of your output
+
+---
+
+
+### Discussion
