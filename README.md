@@ -121,7 +121,7 @@ Logistic regression is a statistical method that helps us classify data into two
 
     
 ### Dataset Description
-In the dataset [adult.csv](https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Logistic%20Regression/adult.csv), it contains demographic information about individuals in the US, including age, work experience, education level, and their income classification (greater than or equal to $50K or less than $50K). It's a classic example for binary classification using logistic regression to their gender.
+In the dataset [adult.csv](https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Logistic_Regression/adult.csv), it contains demographic information about individuals in the US, including age, work experience, education level, and their income classification (greater than or equal to $50K or less than $50K). It's a classic example for binary classification using logistic regression to their gender.
 * The dependent variable in this dataset is ***sex***
 * The independent variables in this dataset are ***age, workclass, education.num, marital-status, occupation, relationship, race, capital.gain, capital.loss, hours.per.week, native.country*** and ***income***
 
