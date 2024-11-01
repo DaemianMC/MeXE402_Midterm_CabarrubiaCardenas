@@ -112,16 +112,18 @@ Logistic regression is a statistical method that helps us classify data into two
 * ### Key Concepts
 1. Binary Outcome
    * Logistic regression is mainly used for binary classification, where the outcome falls into one of two categories (e.g., success/failure, yes/no).
+2. Logistic Function
+   * The core of logistic regression is the logistic function (or sigmoid function), which transforms linear combinations of the input variables into probabilities ranging from 0 to 1:
 
      **P(Y=1|X) = 1 / (1 + e^(- (β₀ + β₁X₁ + β₂X₂ + ... + βₙXₙ)))**
 
+---
+
     
-
-
-
-
 ### Dataset Description
-&nbsp; &nbsp; [Insert text here]
+In the dataset [adult.csv](https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Logistic%20Regression/adult.csv), it contains demographic information about individuals in the US, including age, work experience, education level, and their income classification (greater than or equal to $50K or less than $50K). It's a classic example for binary classification using logistic regression to their gender.
+* The dependent variable in this dataset is ***sex***
+* The independent variables in this dataset are ***age, workclass, education.num, marital-status, occupation, relationship, race, capital.gain, capital.loss, hours.per.week, native.country*** and ***income***
 
 ### Project Objectives
 &nbsp; &nbsp; [Insert text here]
