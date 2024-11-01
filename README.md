@@ -121,10 +121,8 @@ For the documentation, here are the step-by-step process we come up to create th
 **Root Mean Squared Error**
   * The root mean squared error of this dataset is 0.9715824088946632
   * This means that the prediction is only under 1 degree away from the actual temperatures
+---
 
-
-
-<br>
 <br>
 <br>
 
@@ -245,5 +243,5 @@ In summary, comparing linear and logistic regression means looking at how each m
 ---
 
 ## Contributors
-  * Cabarrubia, Yuel Jeiro Daemian
-  * Cardenas, Sofia Bianca
+  * Cabarrubia, Yuel Jeiro Daemian M.
+  * Cardenas, Sofia Bianca J.
