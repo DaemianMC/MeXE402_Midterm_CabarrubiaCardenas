@@ -110,8 +110,10 @@ For the documentation, here are the step-by-step process we come up to create th
   * This value suggests the model is still a very good fit even when accounting for the number of independent variables
   * This value is very close to the R-squared implying that the model is not overfitting
 
-
-
+**Mean Squared Error**
+  * The mean squared error of this dataset is 0.9439723772735564
+  * The mean squared error of this dataset as a percentage is 7.95%
+  * 
 
 
 
