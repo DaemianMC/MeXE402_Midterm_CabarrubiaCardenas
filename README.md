@@ -68,7 +68,6 @@ For the documentation, here are the step-by-step process we come up to create th
    </p>
 
 
-
    * Visualizing the relation of each independent variables to the dependent variable uisng pairplot function
   
      <p align="center">
@@ -77,13 +76,12 @@ For the documentation, here are the step-by-step process we come up to create th
      </p>
 
 
-
    * Visualizing the relationship between the actual data and the predicted data using scatter plot
   
-     
-     <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Scatter.png" alt="Scatter" width="700" />
-
-
+     <p align="center">
+       <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Scatter.png" alt="Scatter" width="700" />
+       <br><i>Figure 1.3 Relationship of Actual Data and Predicted Data</i>
+     </p>
 
 
    * Visualizing the relationship of each independent variables with the dependent variables using scatter plot
