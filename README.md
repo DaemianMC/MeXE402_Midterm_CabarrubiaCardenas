@@ -125,5 +125,12 @@ In the dataset [adult.csv](https://github.com/DaemianMC/MeXE402_Midterm_Cabarrub
 * The dependent variable in this dataset is ***sex***
 * The independent variables in this dataset are ***age, workclass, education.num, marital-status, occupation, relationship, race, capital.gain, capital.loss, hours.per.week, native.country*** and ***income***
 
+---
+
+
 ### Project Objectives
-&nbsp; &nbsp; [Insert text here]
+In doing this project, these are the things we want to achieve with our analysis:
+* Analyze the impact of independent variables on the likelihood of the outcome.
+* Develop a model to estimate the probability of a binary outcome
+* Provide actionable insights for informed decision-making based on model predictions.
+* Assess model accuracy and effectiveness using metrics such as accuracy, precision, recall, and ROC-AUC.
