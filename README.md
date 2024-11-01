@@ -205,3 +205,21 @@ After doing this midterm project, here are some of our findings:
 
 
 ### Discussion
+In terms of reflecting on the result, there are some things we noticed when comparing the two regression methods:
+1. **Type of dependent variable**
+   * **Linear Regression:** Used for predicting continuous outcomes
+   * **Logistic Regression:** Used for predicting binary outcomes
+2. **Output Interpretation**
+   * **Linear Regression:** Produces a continuous output, which can be interpreted directly as the predicted value.
+   * **Logistic Regression:** Produces probabilities that can be interpreted as the likelihood of the outcome belonging to a particular class, often transformed using the sigmoid function.
+3. **Performance Metrics**
+   * **Linear Regression:** Commonly evaluated using metrics like Mean Squared Error (MSE) or R-squared.
+   * **Logistic Regression:** Evaluated using metrics like accuracy, precision, recall, F1-score, and AUC-ROC.
+4. Interpretability
+   * Both models are generally easy to understand, but in logistic regression, the coefficients reflect changes in the log-odds of the outcome, which can be a bit less straightforward compared to the clear, direct interpretations you get from linear regression.
+
+In summary, comparing linear and logistic regression means looking at how each method handles different types of data, what assumptions they make, how they produce outputs, and how we measure their performance. This understanding helps us choose the right approach for the specific problem we’re trying to solve.
+---
+
+
+### Discussion
