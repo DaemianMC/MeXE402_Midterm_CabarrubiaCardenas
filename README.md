@@ -3,7 +3,9 @@
 ##### Linear Regression: Weather Dataset
 ##### Logistic Regression: Adult Census Income Dataset
 ---
-## Linear Regression
+
+<h1 align="center">Linear Regression</h1>
+
 ### Introduction
 Linear regression models the relationship between a dependent variable and one or more independent variables by fitting a line (or hyperplane) that best predicts the dependent variable from the independents.
 * ### Key Concepts
@@ -124,9 +126,9 @@ For the documentation, here are the step-by-step process we come up to create th
 ---
 
 <br>
-<br>
 
-## Logistic Regression
+<h1 align="center">Logistic Regression</h1>
+
 ### Introduction
 Logistic regression is a statistical method that helps us classify data into two categories, like Yes or No, by predicting the probability of an outcome based on one or more factors
 * ### Key Concepts
