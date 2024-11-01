@@ -113,7 +113,7 @@ For the documentation, here are the step-by-step process we come up to create th
 **Mean Squared Error**
   * The mean squared error of this dataset is 0.9439723772735564
   * The mean squared error of this dataset as a percentage is 7.95%
-  * 
+  * The MSE value of about 0.944 shows some errors in the predictions made by the model, and the MSE as a percent of 7.95% implies that these errors represent small proportion compared with the average value of the actual data
 
 
 
