@@ -97,9 +97,15 @@ For the documentation, here are the step-by-step process we come up to create th
 ### Results
 <p>After doing this midterm project, here are some of our findings:</p>
 
+**Inference**
+ * The value of the predicted temperature is 9.18126102 degrees Celsius while the actual temperature is 9.472222 degrees Celsius
+ * The slight difference between the predicted and actual suggests that the model is performing well but still needs some improvement
+
 **R-squared**
   * The R-squared of this dataset is 0.989586560632771 or 98.96%
   * This value suggests that it is a very good fit, meaning the model accurately captures the relationship between the independent variables and the dependent variable
+
+
 
 
 
