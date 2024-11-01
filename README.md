@@ -107,8 +107,18 @@ For the documentation, here are the step-by-step process we come up to create th
 
 
 ## Logistic Regression
-* ### Introduction
-   * Logistic regression models the probability of a binary outcome using one or more predictors. Unlike linear regression, it predicts probabilities to classify inputs into two classes, such as 0 or 1 (e.g., "yes" or "no"). 
+### Introduction
+Logistic regression is a statistical method that helps us classify data into two categories, like Yes or No, by predicting the probability of an outcome based on one or more factors
+* ### Key Concepts
+1. Binary Outcome
+   * Logistic regression is mainly used for binary classification, where the outcome falls into one of two categories (e.g., success/failure, yes/no).
+
+     **P(Y=1|X) = 1 / (1 + e^(- (β₀ + β₁X₁ + β₂X₂ + ... + βₙXₙ)))**
+
+    
+
+
+
 
 ### Dataset Description
 &nbsp; &nbsp; [Insert text here]
