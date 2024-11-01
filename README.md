@@ -219,7 +219,6 @@ In terms of reflecting on the result, there are some things we noticed when comp
    * Both models are generally easy to understand, but in logistic regression, the coefficients reflect changes in the log-odds of the outcome, which can be a bit less straightforward compared to the clear, direct interpretations you get from linear regression.
 
 In summary, comparing linear and logistic regression means looking at how each method handles different types of data, what assumptions they make, how they produce outputs, and how we measure their performance. This understanding helps us choose the right approach for the specific problem we’re trying to solve.
+
 ---
 
-
-### Discussion
