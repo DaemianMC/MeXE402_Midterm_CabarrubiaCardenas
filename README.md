@@ -68,7 +68,7 @@ For the documentation, here are the step-by-step process we come up to create th
    * Correlation of the variables to each other
 
    <p align="center">
-       <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Correlation_Heatmap.png" alt="Correlation Heatmap" width="700" />
+       <img src=https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Correlation_Heatmap.png alt="Correlation_Heatmap" width="700" />
        <br><i>Figure 1.1 Correlation Heatmap of Dataset Features</i>
    </p>
 
