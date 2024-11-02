@@ -84,7 +84,7 @@ For the documentation, here are the step-by-step process we come up to create th
    * Visualizing the relationship between the actual data and the predicted data using scatter plot
   
      <p align="center">
-       <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Scatter.png" alt="Scatter" width="700" />
+       <img src=https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Scatter.png alt="Scatter" width="700" />
        <br><i>Figure 1.3 Relationship of Actual Data and Predicted Data</i>
      </p>
 
