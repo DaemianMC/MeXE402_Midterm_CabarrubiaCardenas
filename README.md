@@ -223,7 +223,6 @@ After doing this midterm project, here are some of our findings:
 * The logistic regression model results in an accuracy score of 0.8347919545524336 or 83.48%
 * This value suggests that the model is generally reliable and effective, though further improvements may still be considered
 * Due to having a lot of variables in our dataset, we find it hard to increase the accuracy of the logistic regression
-* 
 
 ---
 
