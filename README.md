@@ -76,7 +76,7 @@ For the documentation, here are the step-by-step process we come up to create th
    * Visualizing the relation of each independent variable to the dependent variable uisng pairplot function
   
      <p align="center">
-       <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Pairplot.png" alt="Pairplot" width="700" />
+       <img src=https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Pairplot.png alt="Pairplot" width="700" />
        <br><i>Figure 1.2 Pairwise Relationship of Dataset Features with Correlation to the Dependent Variable</i>
      </p>
 
