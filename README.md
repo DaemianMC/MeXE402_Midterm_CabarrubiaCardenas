@@ -92,7 +92,7 @@ For the documentation, here are the step-by-step process we come up to create th
    * Visualizing the relationship of each independent variable with the dependent variables using scatter plot
   
      <p align="center">
-       <img src="https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Scatter_2.png" alt="Scatter_2" width="700" />
+       <img src=https://github.com/DaemianMC/MeXE402_Midterm_CabarrubiaCardenas/blob/main/Linear_Regression/Visualization/Scatter_2.png alt="Scatter_2" width="700" />
        <br><i>Figure 1.4 Relationship of Each Independent Variable to the Dependent Variable</i>
      </p>
 
