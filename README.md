@@ -244,6 +244,8 @@ In terms of reflecting on the result, there are some things we noticed when comp
 In summary, comparing linear and logistic regression means looking at how each method handles different types of data, what assumptions they make, how they produce outputs, and how we measure their performance. This understanding helps us choose the right approach for the specific problem we’re trying to solve.
 
 ---
+## References
+[1]. 
 
 ## Contributors
   * Cabarrubia, Yuel Jeiro Daemian M.
