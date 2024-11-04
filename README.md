@@ -245,7 +245,10 @@ In summary, comparing linear and logistic regression means looking at how each m
 
 ---
 ## References
-[1]. 
+* [1]  J. Fernando, “R-Squared: Definition, Calculation Formula, Uses, and Limitations,” Investopedia, Sep. 25, 2024. https://www.investopedia.com/terms/r/r-squared.asp
+* [2]  Encord, “Mean Square Error (MSE) | Machine Learning Glossary | Encord | Encord,” encord.com. https://encord.com/glossary/mean-square-error-mse/
+* [3]  P. Schneider and F. Xhafa, “Anomaly detection,” Root Mean Square Error (RMSE), 2022, Available: https://www.sciencedirect.com/topics/engineering/root-mean-squared-error#definition
+* [4]  N. Arya, “Classification Metrics Walkthrough: Logistic Regression with Accuracy, Precision, Recall, and ROC,” KDnuggets, Oct. 13, 2022. https://www.kdnuggets.com/2022/10/classification-metrics-walkthrough-logistic-regression-accuracy-precision-recall-roc.html
 
 ## Contributors
   * Cabarrubia, Yuel Jeiro Daemian M.
